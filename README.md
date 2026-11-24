@@ -61,7 +61,7 @@ Saat ini saya mencari posisi **Junior Full Stack Developer** atau **Backend Deve
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-> Keterangan: badge tanpa label tingkat berarti sudah sering dipakai di proyek. **Menengah** berarti nyaman dipakai di proyek nyata, **dasar** berarti masih tahap belajar.
+> Keterangan: badge tanpa label tingkat berarti sudah sering dipakai di proyek. **Menengah** berarti nyaman dipakai di proyek nyata, **dasar** berarti masih tahap belajar dan sudah pernah gunakan pada proyek.
 
 ## 🚀 Proyek Pilihan
 
